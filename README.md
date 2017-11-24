@@ -1,7 +1,7 @@
 # PnP-Example
 Examples for SharePoint web applications and PowerShell utilities 
 
-## Microsoft learning resource
+## SharePoint Online learning resource
 
 - [SharePoint/PnP](https://github.com/SharePoint/PnP)
 - [eoverfield / PnP-Workshop-Demos](https://github.com/eoverfield/PnP-Workshop-Demos)
@@ -13,6 +13,6 @@ Examples for SharePoint web applications and PowerShell utilities
 **TODO**
 
 ## PowerBI Script Examples
-- [Export SharePoint List to CSV] (https://github.com/brightgems/PnP-Example/PowerShell/export_sp_campaigns.ps1)
+- [Export SharePoint List to CSV](https://github.com/brightgems/PnP-Example/PowerShell/export_sp_campaigns.ps1)
 
-- [Sync up between SharePoint List and Azure SQL] (https://github.com/brightgems/PnP-Example/PowerShell/sync_sp_campaign_list.ps1)
+- [Sync up between SharePoint List and Azure SQL](https://github.com/brightgems/PnP-Example/PowerShell/sync_sp_campaign_list.ps1)
